@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ta ano the things above proved to be the most proper objects of the mind and affections, in a sermon preached before the University in Great St. Maries Church in Cambridge / by Robert Neville.</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52864</idno>
+            <idno type="STC">Wing N526</idno>
+            <idno type="STC">ESTC R25505</idno>
+            <idno type="EEBO-CITATION">08999722</idno>
+            <idno type="OCLC">ocm 08999722</idno>
+            <idno type="VID">42175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52864)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1290:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ta ano the things above proved to be the most proper objects of the mind and affections, in a sermon preached before the University in Great St. Maries Church in Cambridge / by Robert Neville.</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[2], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.R. for Benjamin Billingsly,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Colossians III, 2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42175:1"/>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> THE THINGS ABOVE Proved to be the moſt Proper OBJECTS of the MIND and AFFECTIONS, IN A SERMON Preached before the UNIVERSITY IN Great St. <hi>MARIES</hi> Church IN CAMBRIDGE.</p>
+            <p>By <hi>Robert Neville,</hi> B. D. Rector of <hi>Anſty.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. R.</hi> for <hi>Benjamin Billingſly,</hi> in the <hi>Piazza,</hi> under the <hi>Royal Exchange</hi> in <hi>Cornhil.</hi> 1683.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:42175:2"/>
+            <pb facs="tcp:42175:2" rendition="simple:additions"/>
+            <head>To the Worſhipful My much Honoured KINSMAN <hi>JAMES WILYMOT,</hi> 
+               <abbr>Eſq</abbr> High Sheriff of the COUNTY of HERTFORD, And one of His Majeſties DEPUTY LIEUTENANTS, AND JUSTICES of the PEACE FOR THE SAID COUNTY.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>HIS Majeſty having (for your unblemiſht and unſhaken Loyalty to himſelf, and your conſtant Zeal for the Succeſſion in the right Line) intruſted you with the <hi>Poſſe Comi<g ref="char:EOLhyphen"/>tatus</hi> of this County, and accumulated other Honours and Titles upon you; give me leave as well to Congra<g ref="char:EOLhyphen"/>tulate
+<pb facs="tcp:42175:3"/>thoſe Honours which (if ever any did) you have Merited from your Royal Maſter, as to preſent you with this Diſcourſe, which will diſcover to you the vanity of all Sublunary Glories, and acquaint you that there is no Honour woven in the fineſt Tapeſtry of this World, but will loſe Colour, Decay, and Periſh; and that the Greateſt Titles are written in Dust, and that the very Monuments of great Men are Mortal, and will in time be found (like <hi>Archimedes</hi> his Tomb <hi>in Tully</hi>) overgrown with Thorns and Briers: But you (Sir) have taken a Courſe to perpetuate your Memory, and build your Fame upon theſe laſting Pillars; Remark<g ref="char:EOLhyphen"/>able Loyalty to your Soveraign, Exemplary Conformity to the Doctrine and Diſcipline of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and Faithfulneſs to your Friend; theſe Ex<g ref="char:EOLhyphen"/>cellencies your Friends cannot but reſpect and admire, and your Enemies dare not but acknowledge in you; And that you may participate as well of the glories of the other World, as you have done of the Honours of this, (whereof I wiſh you ſtill an Addition) let me requeſt you to make the things above the chief Objects of your Affections, which was the Principal deſign of this Diſcourſe now Dedicated to you by</p>
+            <closer>
+               <dateline>Anſty. <date>Novemb. <hi>22. 1682.</hi>
+                  </date>
+               </dateline>
+               <signed>Your Obliged Kinſman, and Faithful Servant, <hi>R. Neville.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:42175:3"/>
+            <head>A SERMON Preached before the UNIVERSITY At Great St. <hi>MARIES CHURCH</hi> IN CAMBRIDGE.</head>
+            <epigraph>
+               <q>
+                  <bibl>COLOS. 3.2.</bibl>
+                  <p>Set your Affections on things above, not on things on the Earth.</p>
+               </q>
+            </epigraph>
+            <p>IF we ſhould put this Queſtion to every one we meet in the Revolution of an Age, and ask him what game he deſired to ſpring; No doubt, he would anſwer Happineſs. That is the mark, at which we level all our aimes: But, ſuch is our misfortune, that we look upon it through
+<pb n="2" facs="tcp:42175:4"/>falſe Optics, through a falſe Glaſs; which repre<g ref="char:EOLhyphen"/>ſents to us a Painted and Counterfeit, in the Habit and Attire of true Happineſs. The ſoul of man (as the Philoſopher truly affirms) is <hi>Res Cogitans,</hi> a thinking Being; it can as ſoon ceaſe to be, as ceaſe to think: But the miſery is, that the thoughts there<g ref="char:EOLhyphen"/>of are not determin'd to a Right Object; the bi<g ref="char:EOLhyphen"/>as of our Affections is turned towards the Earth: and we are apt to ſay with St. <hi>Peter</hi> upon Mount <hi>Tabor,</hi> 'tis good for us to be here; Here we Cen<g ref="char:EOLhyphen"/>ter, here we ſit down; whereas (if St. <hi>Paul</hi> may be believed) we are obliged to look higher than theſe ſo low and inferiour Concerns.</p>
+            <p>We muſt not, when we hunt after true Happi<g ref="char:EOLhyphen"/>neſs, run like Hounds, with our Noſes to the Earth, for the ſent of true Happineſs will never lye there; that (like the <hi>Ancilia</hi> at <hi>Rome</hi>) deſcends from Hea<g ref="char:EOLhyphen"/>ven, from above: that I may therefore (like ſome <hi>Mercurial</hi> Statue) point out to you the way to Hap<g ref="char:EOLhyphen"/>pineſs, I ſhall Addreſs my ſelf to you in theſe words of the Text, <hi>Set your Affections on things above, not on things on the Earth.</hi>
+            </p>
+            <p>In which words there are Three General Parts.</p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> An enquiry or ſearch Commanded <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Mind, look after, <hi>Set your Affections,</hi> your minds, <hi>upon.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> Here are the Objects that deſerve this ſearch, this Enquiry, and they are <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>the things above.</hi>
+               </item>
+               <item>
+                  <hi>Thirdly,</hi> Here are ſome Objects of an inferiour nature, which we muſt overlook and diſregard, and they are, <hi>the things on the Earth.</hi>
+               </item>
+            </list>
+            <p n="1">1. Of the Firſt, The Enquiry or Search, com<g ref="char:EOLhyphen"/>manded, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, mind, look after, for ſo the word
+<pb n="3" facs="tcp:42175:4"/>ſignifies; thus <hi>Phil.</hi> 3.19. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is to mind Earthly things: and <hi>Rom.</hi> 8.5. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to mind and look after the things of the Fleſh. There's no time for a Chriſtian to be idle, or ſtand ſtill in this Life, He muſt be alwayes travelling from know<g ref="char:EOLhyphen"/>ledge to knowledge, and by making new enquiries after, make new diſcoveries of his Duty. He muſt hunt all grounds, beat every Buſh, to ſtart and put up thoſe Objects, that are worth the purſuing: His thoughts muſt be always upon the Wing, but then they muſt not fly at every ſmall game, nor ſtoop to every mean Quarry; they muſt take their flight upwards, they muſt ſoar high, to the things that are above: For ſaith the Text, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Mind, Look after, ſet your Affections, your Minds, upon the things that are above.</hi> And this brings me to the ſe<g ref="char:EOLhyphen"/>cond General Part in the Text, namely,</p>
+            <p n="2">2. <hi>The Objects,</hi> that deſerve this ſearch, this En<g ref="char:EOLhyphen"/>quiry, and they are <hi>[the things above.]</hi>
+            </p>
+            <p>We are all naturally ambitious, and love to be exalted; We are all born <hi>Corahs,</hi> of an aſpiring Nature; we have Perching and Towring thoughts; and if we will but take the pains to ſteer and guide our thoughts to their proper Objects, to Heaven and Heavenly things; we may retain our Ambiti<g ref="char:EOLhyphen"/>on, and aſpire as high as we pleaſe. Now <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> may be comprized under theſe two Heads,
+<list>
+                  <item>(1.) <hi>The Perſons,</hi> and</item>
+                  <item>(2.) <hi>The Joyes above.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The Perſons above are the Three Perſons of the Bleſſed and Glorious Trinity. The very figure of the heart of man holds ſome proportion with the Bleſſed Trinity; being (as ſome affirm) Triangular, and as it were, extending a Corner of it ſelf to each
+<pb n="4" facs="tcp:42175:5"/>of the Three Sacred Perſons; the Capacity there<g ref="char:EOLhyphen"/>of being apteſt, and indeed only to be ſatisfied by the all-ſufficiency of that Bleſſed Trinity. As the heart is ſaid to be Triangular, ſo the world is round; and therefore if the heart of man ſhould contain the whole ſublunary World within it, yet as a Circle within a Triangle, cannot fill the Tri<g ref="char:EOLhyphen"/>angle ſo compleatly, but that there will be always left void ſpaces, in the Angles or Corners of it: So it cannot be, that the Heart ſhould be ſo filled or ſatisfied with this lower World; but that always it will have ſome corners, for ſorrows and troubles to lurk in; whereas the Bleſſed Trinity fills all the Angles, and leaves no room for diſtractions, or diſ<g ref="char:EOLhyphen"/>contents: Let us then Unite our Affections in the Unity in Trinity, and Trinity in Unity, in the Three Perſons, but one God; let God be the Ob<g ref="char:EOLhyphen"/>ject of our Minds and Affections, from whom the further they recede, the more remote they are from true Felicity: For ſo long as our minds and affecti<g ref="char:EOLhyphen"/>ons attempt to ſix upon any thing but God: we <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but indeed anxiouſly endeavour to wring Happ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>neſs out of that, which will yield no more than a flinty Rock to all our preſſing and forcing of it: the more we endeavour to force our affections to ſtay upon any finite thing, the more violently will they recoil upon us: it is only a true ſenſe and re<g ref="char:EOLhyphen"/>liſh of God, that can tame and maſter that rage, of our unſatiable and reſtleſs appetites.</p>
+            <p>The mind of man affects a kind of Infinity in all its Objects; the affections are always reaching after new pleaſures, the deſires are carryed forth after new Poſſeſſions; Phanſy is perpetually en<g ref="char:EOLhyphen"/>tertaining the mind with new Idea's; The under<g ref="char:EOLhyphen"/>ſtanding
+<pb n="5" facs="tcp:42175:5"/>is ever calling for a new Scene of Con<g ref="char:EOLhyphen"/>templations: from whence it appears, that the Soul cannot truly Compoſe and enjoy it ſelf, but in Union with God, that infinite Ocean of all Per<g ref="char:EOLhyphen"/>fections. <hi>Macarius</hi> obſerves well in his 5th. Ho<g ref="char:EOLhyphen"/>mily, that Chriſtians are not diſtinguiſhed from others,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>by Outward Modes and Faſhions, by their external Forms and Molds, into which they are caſt, or by Profeſſing a Body of Notions different from others in the World, but by the Peaceableneſs of their thoughts, and their love of God:</hi> and that if we behold in their minds as in other mens,<note n="(b)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>nſettled thoughts and reaſonings, trembling and con<g ref="char:EOLhyphen"/>fuſedneſs,</hi> we may conclude that they are ſtill faſt bound to earthly things, that they have not attain<g ref="char:EOLhyphen"/>ed the end of their Chriſtianity, and are far from that true Beatitude, which conſiſts in the Union with God: Nay, to advance one ſtep higher, could a man find himſelf withdrawn from all earthly and material things, and perfectly retired into himſelf; were the whole world ſo quiet and calm about him, as not to offer to make the leaſt attempt upon his compoſedneſs of mind; might he be ſo well enter<g ref="char:EOLhyphen"/>tained at his own home, as to find no frowns, no ſour looks, from his Conſcience, nor Melancholly Vapours from his Spleen, nor any dreadful appre<g ref="char:EOLhyphen"/>henſions from his Phanſy, yet he would find ſome<g ref="char:EOLhyphen"/>thing within him, that would diſcompoſe his de<g ref="char:EOLhyphen"/>ſigned reſt, Tear him from himſelf, and toſs him from his own Foundation, I mean the want of God.</p>
+            <p>I come now to a ſhort <hi>Application</hi> of this <hi>Par<g ref="char:EOLhyphen"/>ticular.</hi>
+            </p>
+            <p>Ought God to be the Chief Object of our minds and affections? how highly culpable then are the
+<pb n="6" facs="tcp:42175:6"/>Prophane Atheiſts of our Age? who baniſh all thoughts of a Deity out of their mind, and forbid Gods being named there, with the ſame rigour and ſeverity, as that King formerly prohibited Death from being ſo much as named in his Court: it be<g ref="char:EOLhyphen"/>ing now the only Badge and Signature of a mo<g ref="char:EOLhyphen"/>dern Wit, to be one of <hi>David</hi>'s fools, and not only ſay in his heart, but make Proclamation, that there is no God: Thus theſe blaſphemous wretches are not aſhamed to Theater their Atheiſm; and the ſpeculative Atheiſt, who (if he had any Being at all) was till this preſent age, either under a diſguiſe, or elſe behind the Hangings, is not now afraid to pull off his Maſque, his Diſguiſe, and appear the man, that dares put Sarcaſms upon God, and lam<g ref="char:EOLhyphen"/>poon Religion upon the Publick Stage of the world. Men are now <hi>Profeſſors</hi> of <hi>Atheiſm,</hi> and have ſat <hi>Doctors</hi> in the <hi>Chair,</hi> in the *<note place="margin">
+                  <hi>Pſal.</hi> 1.1.</note> 
+               <hi>Seat of the ſcornful,</hi> making a laughing ſtock of all things, that are ſa<g ref="char:EOLhyphen"/>cred and Religious; they are ſo far from ſetting their minds upon God, that they will not pay him the ſmall Tribute of one ſingle thought; but re<g ref="char:EOLhyphen"/>ſemble thoſe luſtful Idolaters St. <hi>Cyril</hi> of <hi>Jeruſalem</hi> ſpeaks of who deifi'd and worſhipt the Sun, that they might the more freely indulge themſelves in their luſtful ſatisfactions all night; for to have a God then would have diſturbed their nocturnal pleaſures, and they Worſhipt the Moon,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>that they might not have a God by day;</hi> They care not for thinking of God at any time; they will neither con<g ref="char:EOLhyphen"/>ſecrate the day, nor the night to him; they look upon all the Comminations and Threatnings of God, but as the Paſſionate Rants of ſome weak perſon, who would terrifie where he cannot per<g ref="char:EOLhyphen"/>ſwade,
+<pb n="7" facs="tcp:42175:6"/>and Hector men out of their carnal ſatisfac<g ref="char:EOLhyphen"/>tions; and they eſteem all the promiſes of Eternal Life and Happineſs, but as meer <hi>Romanza's,</hi> and therefore they regard and mind them not, and this brings me to the <hi>Second Head,</hi> under which are con<g ref="char:EOLhyphen"/>tained the things above, on which we muſt ſet our affections, namely,</p>
+            <p n="2">2. <hi>The Joyes above;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 2.9.</note> ſuch Joyes as * <hi>Eye hath not ſeen, Ear hath not heard, neither have entred into the Heart of man:</hi> They are unconceivable, too great to be expreſt, and great enough to challenge our beſt affections, and that for theſe two reaſons;
+<list>
+                  <item>Firſt, <hi>Becauſe they are laſting and permanent,</hi>
+                  </item>
+                  <item>Secondly, <hi>Becauſe they are pure, and without any mixture, or allay of ſorrow.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Becauſe they are laſting and permanent;</hi> They are ſuch Joyes, as were made for the Soul, and the Soul for them; for they are Infinite and Eternal, they never Dye: ſuch as grow more verdant and freſh upon the injoyment; they are always in their Spring, they have no Autumn, no Fall, no decay; they are embaſed with no bitter Farewels; When we are once Wedded to them, they will never be divorced from us; The Bleſſedneſs of Heaven is without end; this makes Heaven to be Heaven in<g ref="char:EOLhyphen"/>deed; there is no ſatiety or wearineſs for the pre<g ref="char:EOLhyphen"/>ſent, no ſollicitude or care for the future: Were there a poſſibility, or the leaſt ſuſpition of loſing that Happy State, it would caſt an aſperſion of bit<g ref="char:EOLhyphen"/>terneſs upon all the Heavenly Joyes and Delights; and the Saints of Heaven could not injoy one mo<g ref="char:EOLhyphen"/>ments Reſt or Repoſe; but the more excellent their Happineſs is, the more ſtinging would their fear be of parting with it: Let there be never ſo many
+<pb n="8" facs="tcp:42175:7"/>and great Ingredients of Felicity otherwiſe, if this of Duration be wanting, it anſwers not the deſires of a man, and is very ſhort and defective; for whenever it ſhall expire, it will be as if it had ne<g ref="char:EOLhyphen"/>ver been; nay, if any ſenſe of things remain af<g ref="char:EOLhyphen"/>terwards, it is a great aggravation of unhappineſs, <hi>fuiſſe felicem,</hi> that a man hath out-lived his own Comforts; and the comparing his preſent deſtituti<g ref="char:EOLhyphen"/>on with his former injoyments is really a torment to him. And this is the very argument, upon which the Scripture ſlurs all the Glories of this World, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <note n="*" place="margin">1 <hi>Cor.</hi> 7.31.</note> 
+               <hi>the Scene changes;</hi> All is but ac<g ref="char:EOLhyphen"/>ting a part for a while, and ſhortly the Lights are put out, the Curtain drawn, and the Glory of the World makes its <hi>Exit:</hi>
+               <note n="*" place="margin">1 <hi>Pet.</hi> 1.4.</note> 
+               <hi>But the Inheritance reſer<g ref="char:EOLhyphen"/>ved in Heaven, is immortal, undefiled, and fades not away;</hi> And the <hi>Tenure</hi> of its poſſeſſion is infi<g ref="char:EOLhyphen"/>nitely firm by the Divine Power, the true ſupport of its Everlaſting Duration: O moſt deſirable State, where Bleſſedneſs and Eternity are inſeparably uni<g ref="char:EOLhyphen"/>ted! O joyful Harmony, when the full Chorus of Heaven ſhall ſing, <hi>this God is our God forever!</hi> this redoubles their unſpeakable joyes with infinite ſweetneſs and ſecurity; this makes them true Joyes indeed: For as if you take away fixedneſs and reſt from the earth, and motion from the Sun, accord<g ref="char:EOLhyphen"/>ing to the Old Aſtronomy, you take away the na<g ref="char:EOLhyphen"/>ture and Eſſence from both; ſo if you take from that which is called Joy, its Duration, which it does principally conſiſt in, <hi>you take away its Nature and Eſſence too</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſaith <hi>Maximus Tyrius:</hi> and therefore thoſe Celeſtial Joyes, which are ſo durable, are the moſt proper Objects of the mind and affections: they will never ſatiate or weary; for they proper<g ref="char:EOLhyphen"/>ly
+<pb n="9" facs="tcp:42175:7"/>affect the ſpirit, and a ſpirit feels no wearineſs, as being privileg'd from the cauſes of it: they are ſuch joyes as grow and improve under our thoughts, and whilſt they exerciſe, do alſo endear themſelves to our minds, at the ſame time imploying and in<g ref="char:EOLhyphen"/>flaming our Affections.</p>
+            <p n="2">2. <hi>We muſt ſet our affections on the Joyes above,</hi> becauſe they are Pure, and without any mixture or allay of ſorrow: they are High, Rational, An<g ref="char:EOLhyphen"/>gelical Joyes; ſo bright and glorious, as that no Clouds of ſorrow can be ſeen about them: Heaven is no Region of ſorrow, no Climat for Melanchol<g ref="char:EOLhyphen"/>ly: there is no gloomy night of ſadneſs, but a per<g ref="char:EOLhyphen"/>petual day of joy; when we ſhall be refreſht with the Beatifical Preſence of God, that pure Eſſence, that glorious irradiation, that diſpells the miſts of Hell; the Clouds of Fear, Honour and Deſpair, and preſerves the upper Region of the mind in a calm ſerenity. Let us then recollect our diſperſt, and hitherto ill placed Affections: let us call home our Roving and Vagrant thoughts, which Opini<g ref="char:EOLhyphen"/>on and Cuſtom have ſadly diſtracted, and direct them to their Proper Objects, to Heaven, and the <hi>things ABO<g ref="char:V">Ʋ</g>E:</hi> For why ſhould we with ſo much dotage, fix our affections upon the deceitful looks of theſe temporal things? What is there that ſhould tempt us to prefer a Wilderneſs before a Paradiſe? A Valley of <hi>Bacah,</hi> a Valley of tears, before a Hill of Joy and Happineſs? A Hell of ſorrow before a Heaven of Bliſs? why ſhould we (like <hi>Saul</hi>) be looking after ASSES here below, when we ſhould ſeek for a <hi>Kingdom,</hi> the Kingdom of God. And this brings me to the third General Part in the Text, where we have the Objects of an inferiour
+<pb n="10" facs="tcp:42175:8"/>nature, which we muſt overlook and diſregard, and they are, THE THINGS ON EARTH: our Af<g ref="char:EOLhyphen"/>fections muſt ſit looſe, and not be too faſt bound to them.</p>
+            <p n="3">3. In the antient Academical Philoſophy it was much diſputed, whether that Corporeal and Ani<g ref="char:EOLhyphen"/>mal Life, which was always drawing down the ſoul into Earthly and Material things, was not more properly to be ſtyled Death than Life; what ſence hereof the very Heathens had, may appear by the practice of the <hi>Pythagorean</hi> Philoſophers, who were wont to ſet up empty Coffins in the places of thoſe that had forſaken their ſchool, and degene<g ref="char:EOLhyphen"/>rated from their Precepts, which were to ſubdue the Carnal Appetite: they looked upon ſuch as Apoſtates from life it ſelf, and dead to virtue and a good life: As thoſe Nurſes therefore that would wean their Children, rub their Nipples with Worm<g ref="char:EOLhyphen"/>wood, and other bitter things: So I ſhall rub the Nipples of this World, (which many worldlings ſuck with ſuch delight) with Wormwood, and en<g ref="char:EOLhyphen"/>deavour to imbitter the taſt of theſe Earthly things to your Palats, to wean you from them. <hi>Iſocrates</hi> compared the City of <hi>Athens</hi> to a <hi>Curtezan,</hi> with whom though few there were but would have to do, yet none dared take her to Wife: and to ſuch a one I may compare this World, with whom though moſt men have to do, yet let none ſo ſet their Affections upon it, as to be marryed and eſ<g ref="char:EOLhyphen"/>pouſed to it; and that for theſe following Rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p n="1">(1.) Becauſe all earthly things are fading and tranſitory; Worldly enjoyments (like Bees) fly away, leaving more <hi>Sting</hi> than <hi>Honey</hi> behind them;
+<pb n="11" facs="tcp:42175:8"/>the delight of their poſſeſſion is ſcarce great enough to recompenſe the trouble of parting with them.</p>
+            <p>Hiſtorians tell us of a Floating Iſland in <hi>Scotland,</hi> and ſurely he would be no wiſe Pilot that caſts An<g ref="char:EOLhyphen"/>chor there, leaſt the Land ſhould ſwim away with the Ship: And ſo are they juſtly ſerved, who An<g ref="char:EOLhyphen"/>chor upon this Floating World, which is acquaint<g ref="char:EOLhyphen"/>ed with any thing better than conſiſtency: its Na<g ref="char:EOLhyphen"/>ture ſeems Emblem'd and Repreſented to us in its Figure, it is round, and accordingly in perpetual motion, and turning from one ſide, and condition to another. For</p>
+            <p>
+               <hi>Firſt,</hi> To begin with Riches, they are ſuch wing<g ref="char:EOLhyphen"/>ed injoyments; as will ſoon fly from us.<note n="*" place="margin">
+                  <hi>Prov.</hi> 23.5.</note> 
+               <hi>Riches certainly make themſelves wings, they fly away as an Eagle towards Heaven:</hi> It was not therefore without good reaſon, that the old <hi>Scythians</hi> painted the hands of Fortune with Wings, to ſhew that her Gifts come ſwift and ſuddenly, which if her Fa<g ref="char:EOLhyphen"/>vourite be not quick and ready to take, he loſes forever<g ref="char:punc">▪</g> And it was one of the Mirabilia of the Stoics, that the moveables of Fortune are not to be reckoned as any part of our Wealth, nor put into the Inventory of thoſe Goods, that are deſi<g ref="char:EOLhyphen"/>rable, for the true Goods of a man ſay they, are im<g ref="char:EOLhyphen"/>moveable and immutable, they can neither be plun<g ref="char:EOLhyphen"/>dred nor ſequeſtred; A mans true wealth is always imbarqut in the ſame bottom with himſelf, he can never loſe it; but Riches, thoſe winged and flit<g ref="char:EOLhyphen"/>ting gifts of Fortune, like great Empires, are as hard to be retained, as gotten, they are always up<g ref="char:EOLhyphen"/>on the Wing, in a poſture of departing; And therefore <hi>Cebes</hi> very appoſitely, in his TABLE, brings in Fortune ſtanding upon a round ſtone, and
+<pb n="12" facs="tcp:42175:9"/>deſcribing her actions, tells us, that ſhe often wan<g ref="char:EOLhyphen"/>ders about, and robs ſome of their Goods, that ſhe may beſtow them upon others, and then takes them away again from thoſe, to whom ſhe but now gave them, and inconſiderately bequeaths them to others: and interpreting the meaning of his making her ſtand upon a round ſtone, he thus delivers him<g ref="char:EOLhyphen"/>ſelf,<note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>That her gifts are not ſafe and ſure, but un<g ref="char:EOLhyphen"/>conſtant and uncertain:</hi> and as Riches, ſo neither</p>
+            <p>
+               <hi>Secondly,</hi> is Honour, Worldly Honour (ſo fading and tranſitory it is) a proper Object for our Affec<g ref="char:EOLhyphen"/>tions. It is as frail as Life its Fellow Flower; it only makes a ſhort flouriſh, and then fades and diſ<g ref="char:EOLhyphen"/>appears.</p>
+            <p>We ſhould think the Moon much greater than all the other Stars, were it not that the ſhadow of the Earth, which ſome have made uſe of to meaſure it, makes the contrary to appear: and ſo we ſhould be of opinion that theſe proud Dignities and Ho<g ref="char:EOLhyphen"/>nours of the World, had much eminence and ex<g ref="char:EOLhyphen"/>cellency, above all that is here below, were it not that they fall into ſhadows and Phantaſms, which make the contrary evident and apparent to us. Greatneſs of Power and Honour lets men grow till their Fate is ripe, and then they fall down to the ground, and their Honour lies in the duſt; And this was the Fate of <hi>Sejanus</hi> (that great Favourite of the Court of <hi>Rome</hi>) who, as Thunder ſome<g ref="char:EOLhyphen"/>times roars when the Air is moſt clear, beheld him<g ref="char:EOLhyphen"/>ſelf ſurprized with a ſtorm, in the cleareſt ſerenity of Fortune; Fortune began to grow weary of waiting on him, becauſe he went up the high Hill of preferment too faſt; and at length forſook his pride and inſolency, as if ſhe had raiſed him to no
+<pb n="13" facs="tcp:42175:9"/>other end than to make him fall from ſuch a height, that there ſhould not be a creature found, that da<g ref="char:EOLhyphen"/>red lend him an arm, or offer a boſom to receive him. Great men, in Honour, are like Sun-dials, which when the Sun is gone, or hides his face, are ſcarce looked upon. He that was yeſterday the Prince his Favourite, at whom the whole Court gazed, as at the appearance of ſome new Comet, may to day be ſet under the Horizon of Honour. He who not long ſince wore the Honourable Title of Lord Preſident of the Council, may on the ſud<g ref="char:EOLhyphen"/>den be deveſted and deplumed of that Honour, and (that juſtly too) laid aſide, as a pernicious <hi>Achitophel,</hi> as a miſchievous and evil Counſellor. Great men who have the Sun of Proſperity ſhining in their faces, have ice oftentimes under their feet, their Station is ſlippery, and as Honour, ſo nei<g ref="char:EOLhyphen"/>ther</p>
+            <p>
+               <hi>Thirdly,</hi> Hath Worldly Wiſdom (ſo ſhort-lived and fading it is) a Title to our Affections; The overmuch heat hinders Wiſdom in Youth, too much coldneſs extinguiſhes it in Old Age; ſometimes it never comes, but man paſſes from immaturity to rottenneſs; and when it does come, 'tis alwayes late, and laſts but a little, its Cradle becomes its Tomb. It is almoſt the only one among ſublunary things, which doth not receive the proportion of Periods, a Beginning, a Being, an Encreaſe and Declining: Or if we ſhould be ſo civil and chari<g ref="char:EOLhyphen"/>table to it, as to allow it a ſhort continuance in Being, yet we ſhall find, that the wiſeſt men, though (like the Heavenly Bodies with the motion of the <hi>Primum Mobile</hi>) they are moved for a while with the weight and power of wiſdom, yet
+<pb n="14" facs="tcp:42175:10"/>they quickly have their <hi>Declinationes Proprias,</hi> ſome private motions and declinations of their own towards Folly; to which their peculiar <hi>Genius,</hi> impreſſions from their Age, or their Education, do often very fatally betray them: and the greateſt Politicians, who thought that they had taken the true pulſe of their Affairs, and vainly flattered themſelves, that they were as difficult to be traced in their plots and intrigues, as the tracks of a Ship are to be diſcovered in the Sea, which as ſoon as it opens, ſhuts again; they have oft times ſo weak<g ref="char:EOLhyphen"/>ly contrived and wove their deſigns, that every vulgar eye might ſee thorough the Web, and diſ<g ref="char:EOLhyphen"/>cover their Folly. And this ſhall ſuffice for the <hi>First Reaſon,</hi> why we muſt not <hi>ſet our Affections on the things below,</hi> becauſe they are fading and tran<g ref="char:EOLhyphen"/>ſitory. I come now to ſhew you <hi>ſecondly,</hi> that we muſt not ſet our <hi>Affections</hi> upon them, becauſe they are troubleſome and vexatious: and this was wiſe <hi>Solomons</hi> Opinion of them,<note n="*" place="margin">
+                  <hi>Eccl.</hi> 1.14:</note> 
+               <hi>I have ſeen all the works that are done under the Sun, and behold all is vanity, and vexation of Spirit.</hi> Ambition is per<g ref="char:EOLhyphen"/>petually anxious for a <hi>BLEW RIBBON,</hi> or or <hi>A WHITE STAFFE,</hi> and to have a croud of Clients ſneaking many hours in its <hi>Anti-Chamber,</hi> which makes the ambitious man dwell in continual noiſe and inquietude; and at laſt become the Ob<g ref="char:EOLhyphen"/>ject of all their hatreds, who crouched like ſlaves to him, whenever he appeared, ſo that the Chair of State, the ſeat of Honour is uſually ſo full of ſharp ſpikes, as to become uneaſy to him that ſits in it:</p>
+            <p>Doſt thou ſet thy Affections upon worldly wealth? if thou haſt but time for obſervation, thou wilt find
+<pb n="15" facs="tcp:42175:10"/>he image of trouble and vexation ſtamped upon it</p>
+            <p>Riches have their Anxieties as well as Poverty, and the Rich man in the Goſpel, whoſe Corn had outgrown his Barnes, cryed out, <hi>what ſhall I doe?</hi> with as much diſſatisfaction, as the pooreſt wretch ever did.</p>
+            <p>Riches (like Nuts) tear and wear out our ſouls cloaths, our bodies, in the gathering; they can<g ref="char:EOLhyphen"/>not reprieve us from Melancholly, nor bail and free us from troubles, becauſe they are not our <hi>ſummum bonum,</hi> our Chief Good; and it is the Chief Good only, that gives the ſoul a full diſcharge from all troubles. Riches are like ſalt and briniſh water, they do not quench or ſatisfie, but provoke and encreaſe our thirſt;<note n="*" place="margin">
+                  <hi>Hab.</hi> 2.5.</note> 
+               <hi>The Rich man enlargeth his deſire as Hell, and is as Death, and cannot be ſatis<g ref="char:EOLhyphen"/>fied:</hi> Again, doſt thou ſet thy Affections upon worldly pleaſures? theſe alſo, though they may ſhew us a tempting face, yet are they big and preg<g ref="char:EOLhyphen"/>nant with dreadful vexations: while they are ex<g ref="char:EOLhyphen"/>pected, they torment us with delay; and when they are come, they abuſe us with their vanity, they fail and lurch our expectation, and vex us with their volatile and fugitive nature: I have read of a ſtatue of <hi>Venus,</hi> ſo artificially made, that as men came towards it, it ſeemed to ſmile, but as they turned from it, it ſeemed to frown: Worldly pleaſures are ſomething like that ſtatue of <hi>Venus,</hi> as they come towards us they ſmile upon us, they appear pleaſant; but as we turn from them, or they from us, many times they frown, they look with another countenance.</p>
+            <p>When the mind of man hath once drank deep of worldly pleaſures, it becomes reſtleſs and unſa<g ref="char:EOLhyphen"/>tiable;
+<pb n="16" facs="tcp:42175:11"/>The Fable of <hi>Tantalus,</hi> who thirſted when he was up to the chin in water, is a lively Emblem of a perſon that thirſts after pleaſure: For what is it elſe but a perpetual thirſt of that man, which pleaſure cannot ſatisfie? What elſe but the waters of exorbitant deſires, which are always ebbing and flowing, and ſeaſoned with ſad cares, fears and tu<g ref="char:EOLhyphen"/>mults? The mind which taſts divers pleaſures, and the degrees of them, and finds a guſt in them, yet not being ſatisfied in any one, (as 'tis impoſſible it ſhould) ſtirs up the Appetite to vary and proceed; that that contentment which ſingle pleaſures could not afford, diverſified might make up; wretched Nature uſing that as an Attractive, which ſhould repel and beat off; For who would careſs and hug a Cloud? embrace that which does not, cannot ſatisfie? and deſires where they are violent, if they be not allayed by ſatisfaction, are but ſo much tor<g ref="char:EOLhyphen"/>ment and agony.</p>
+            <p>Were the Palat alwayes tyed to one diſh, it would ſoon nauſeate and loath it; and ſo will our Affections be ſoon cloyed, if they always play the Epicures, and feed upon worldly pleaſures. The moſt voluptuous and looſe perſon breathing, could never yet ſatisfie the cravings of his ſoul with Cor<g ref="char:EOLhyphen"/>poreal pleaſures, though he might endeavour to perſwade himſelf there were no better; and if he were conſtrained to oppreſs his ſtomach, with the heavy loads of gluttonous meals; and if after a long fatigue of eating and drinking, he were obli<g ref="char:EOLhyphen"/>ged to act over the ſame brutiſh Scene every day; Were his Hawks, and his Hounds, his Curtezans, and his Ganymedes, to be his only companions; He would ſoon find that after the ſeeming ſatisfacti<g ref="char:EOLhyphen"/>on
+<pb n="17" facs="tcp:42175:11"/>of a few minutes, they would determine in loathing and unquietneſs; and the poor ſlave would be glad to fly to the Mines, and the Gallies, for his recreation; and to Plow and Cart for a di<g ref="char:EOLhyphen"/>verſion from the miſery, of a continual unintermit<g ref="char:EOLhyphen"/>ted pleaſure.</p>
+            <p>
+               <hi>Thirdly,</hi> We muſt not ſet our Affections on the things on earth, becauſe they are incumbrances to us in our journey to Heaven. For</p>
+            <p n="1">1. To begin with Knowledge, if it be not ſan<g ref="char:EOLhyphen"/>ctified from above, it is a great incumbrance to traſh and hinder us in our journey to Heaven: and our taſting too liberally of the <hi>TREE OF KNOW<g ref="char:EOLhyphen"/>LEDGE</hi> may be an occaſion of caſting us, as it did <hi>Adam</hi> out of Paradiſe;</p>
+            <p>The Devil among all his ſtratagems to ſtop and retard men in their race to Heaven, hath found none ſo effectual as that, which <hi>Hippomenes</hi> uſed to ſtop and divert <hi>Atalanta;</hi> namely, to fling the Golden Apples of Knowledge in their way, to ſuf<g ref="char:EOLhyphen"/>fer men to ſtuff their heads with Knowledge; He having learned by experience from himſelf, that all the bare knowledge in the world cannot bring a man to Heaven. Let the Brains be never ſo ſwel<g ref="char:EOLhyphen"/>led with knowledge, yea, even with the know<g ref="char:EOLhyphen"/>ledge of Chriſt; be they ſo big, that they are rea<g ref="char:EOLhyphen"/>dy to lye in, and travel of Chriſt, as <hi>Jove</hi>'s did of <hi>Minerva</hi> in the Poet, yet if the heart hath not joyned in the conception, it is but an Ae<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al or Phantaſtical Birth, or indeed rather a Diſeaſe, or Tympany. A man may be very knowing, and ve<g ref="char:EOLhyphen"/>ry diſſolute; of a Towring Brain, and a Grove<g ref="char:EOLhyphen"/>ling ſoul; Rich in ſpeculation but poor in practice. If the edge of our knowledge be not ſet by Piety,
+<pb n="18" facs="tcp:42175:12"/>it will prove pernicious: and therefore <hi>Seneca</hi> ob<g ref="char:EOLhyphen"/>ſerves of the Philoſophers of his Age, that<note n="(a)" place="margin">Boni eſſe deſierunt ſimul ac docti evaſe<g ref="char:EOLhyphen"/>runt.</note> 
+               <hi>their Goodneſs as ſoon as their Knowledge did flow.</hi> And generally we find a great decay of zele with the growth of Notional Knowledge: the tall ſha<g ref="char:EOLhyphen"/>dy trees of Notional Knowledge ſpoil the Under<g ref="char:EOLhyphen"/>wood of Zele in Religion. Knowledge is plea<g ref="char:EOLhyphen"/>ſant, and Books are good company, and therefore if the Devil ſhould bind men to ignorance, our ga<g ref="char:EOLhyphen"/>zing Speculators, and brain Epicures, would never be his Diſciples; He will therefore permit them to be as great Scholars as himſelf, ſo they will be as wicked and prophane too; and as Knowledge ſo,</p>
+            <p n="2">2. <hi>Worldly Wealth</hi> is a great incumbrance to us in our journey to Heaven, and therefore no fit Ob<g ref="char:EOLhyphen"/>ject for our Affections. Riches have no influence upon the ſoul to make it better, but rather deboche and make it worſe: from whence was that ſaying of <hi>Plato,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>(a) It is impoſſible to be exceeding good, and exceeding rich together.</hi> The dominion of Riches and Phiſitians, is one and the ſame, they meddle not but with the humours of the Body, they will confeſs they cure no ſouls: take Riches at the beſt, they have but the goodneſs of an<note n="(b)" place="margin">Bona non unde ſis bonus, ſed unde facias bonum.</note> inſtrument to do good by, of which alſo they often fail; they are not always inſtrumentally good: A great Maſs of Wealth is a great temptation, a dangerous de<g ref="char:EOLhyphen"/>coy;<note n="*" place="margin">1 <hi>Tim.</hi> 6.9.</note> 
+               <hi>They that will be Rich fall into temptation, and a ſnare:</hi> Where theſe words <hi>they that will be Rich,</hi> are part of the Character of the Gnoſtics, who were a ſort of Chriſtians that made no other uſe of Religion, than to promote their ſecular ad<g ref="char:EOLhyphen"/>vantages, <hi>ver.</hi> 5. and whenſoever it was not com<g ref="char:EOLhyphen"/>patible with their worldly profit, they made no
+<pb n="19" facs="tcp:42175:12"/>ſcruple to renounce their Chriſtian Profeſſion. A rich man ſees ſo much of the Terreſtrial Globe, that he can ſee nothing of the Celeſtial; that whol<g ref="char:EOLhyphen"/>ly takes up his mind, and engages his Affections; Riches and Piety ſeldom dwell under the ſame roof, becauſe of the infinite temptations which they pre<g ref="char:EOLhyphen"/>ſent to us; by Miniſtring occaſions of Luſt, fewel for Revenge, inſtruments of pride, baits for Cove<g ref="char:EOLhyphen"/>touſneſs; it being uſual for rich mens Soules to be Priſoners to their purſes, and ſlaves to their wealth.</p>
+            <p>All the joyes and high taſts, that Riches can help us to, are not able to requite us, for the damning ſin of one Inſolency, one Luxury, one Impiety; nor for the pains it will coſt us, to reſiſt thoſe temp<g ref="char:EOLhyphen"/>tations; much leſs to heal the wound of a waſted Conſcience, that the Courting of wealth when 'tis ſhy and coy, does occaſion.</p>
+            <p>The Covetous Worldling thinks Wealth a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>An <g ref="char:V">Ʋ</g>niverſal Inſtrument, an Engine</hi> to work wonders with; and he borrows <hi>Solomons</hi> words <hi>Eccl.</hi> 10.19. <hi>Money anſwers all things;</hi> He thinks that Heaven it ſelf may be purchaſed by it: Ay, but I fear, he'l find his wealth a great clog to him, when he climbs up thither. The Rich man in the Goſpel was ready to ride Poſt to Heaven, provided he might carry his Riches behind him, but when he was told that the aſcent of ſo high a Hill as Hea<g ref="char:EOLhyphen"/>ven ſtands on, could not be climbed with ſo great a burden, he was eaſily inclined to put off his jour<g ref="char:EOLhyphen"/>ney. But leaſt I ſhould be thought ſo great a <hi>Patron</hi> of that error of <hi>Pelagius,</hi> [that 'tis unlawful to be rich under the Goſpel] as to perſwade you to throw away your wealth, and embrace poverty; It is ne<g ref="char:EOLhyphen"/>ceſſary I ſhould acquaint you, that Riches may be
+<pb n="20" facs="tcp:42175:13"/>in your <hi>hands,</hi> though they muſt not dwell in your <hi>hearts;</hi> you muſt unglue your hearts, your affecti<g ref="char:EOLhyphen"/>ons from them: St. <hi>Paul</hi> does not command <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> to charge rich men to throw away their Riches, but not to be proud of<note n="*" place="margin">1 <hi>Tim.</hi> 6.17.</note> 
+               <hi>nor truſt in them:</hi> I ſhall conclude this particular with thoſe excellent words of <hi>Clemens Alexandrinus,</hi>
+               <note n="(a)" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>The beſt wealth is Po<g ref="char:EOLhyphen"/>verty of luſts and deſires, and it is the only true mag<g ref="char:EOLhyphen"/>nanimity, not to Pride our ſelves in wealth, but to contemn and deſpiſe it:</hi> and as Riches, ſo</p>
+            <p n="3">3. Are worldly pleaſures a great incumbrance to us in our journey to Heaven: It hath been obſerv<g ref="char:EOLhyphen"/>ed in the firſt Ages of the Church, that luxurious and deboched perſons, who floated in ſenſual plea<g ref="char:EOLhyphen"/>ſures, were of all others moſt hardly brought to believe the Chriſtian Doctrine, containing in it the Reſurrection of the Body, and the Immortality of the Soul; becauſe their carnal joyes being groſs and material, and contrary to what Chriſt hath taught of Eternal Life, of Spiritual Bodies, and of Bliſs; their being ſo deeply engaged and immerſt in them, fortified them pertinaciouſly againſt the impreſſions of this Heavenly Doctrine. The heart is never more dull, and unfit for the ſeverities, and Maſculine heights of Religion, than when burden<g ref="char:EOLhyphen"/>ed with pleaſures: Pleaſures infatuate the mind; they clog the Soul in all its brave Eſſays; they quench the radiancy and vigour of the Spirit;<note n="*" place="margin">
+                  <hi>Hoſ.</hi> 4.11.</note> 
+               <hi>Whoredom, wine, and new wine, take away the heart.</hi> And the Apoſtle ſpeaking of perſons given to plea<g ref="char:EOLhyphen"/>ſure, tells us,<note n="*" place="margin">
+                  <hi>Epheſ.</hi> 4.19.</note> 
+               <hi>That they are paſt feeling;</hi> If there<g ref="char:EOLhyphen"/>fore you ſhould by chance accept of any treat or entertainment from the world, be as quick and wa<g ref="char:EOLhyphen"/>ry as the Dogs of <hi>Egypt,</hi> when they drink of the
+<pb n="21" facs="tcp:42175:13"/>River <hi>Nilus,</hi> only lap and away; and thus much for the third reaſon, why we muſt not ſet our af<g ref="char:EOLhyphen"/>fections on the things on earth, becauſe they are in<g ref="char:EOLhyphen"/>cumberances in our journey to Heaven.</p>
+            <p n="4">4. We muſt not ſet our Affections on the things of this world, becauſe the world as well as the things thereof, is waning and declining: The world pants with its laſt gaſps, and dying Anhelations; 'tis now grown old and weary, and ready to ſink under the burden of ſo many Ages; theſe latter years, and decrepitneſs of time, are fraught with evils and calamities, as old Age is with diſeaſes; and we have ſeen in theſe latter dayes, the Plagues of Peſtilence, and War, Fire, Deſtruction and Ter<g ref="char:EOLhyphen"/>rors: All theſe are as ſo many acute Fits and Con<g ref="char:EOLhyphen"/>vulſions of a dying world; and ſhall we then ſet our affections on a dying decaying world?</p>
+            <p n="5">5. We muſt not ſet our affections on the things on Earth, becauſe they will be uſeleſs arid unſer<g ref="char:EOLhyphen"/>viceable to us at the hour of death. When Death ſummons us, when the world, the fleſh, the glories and pomps of life turn their backs, and leave us, we ſhall then find how ſtrangely we have been de<g ref="char:EOLhyphen"/>luded by them; how many of thoſe, who have lived in a copious affluence of all things, and fared deliciouſly, when their laſt hour came, would not rather wiſh they had miſſed all theſe enjoyments, that ſo they might have dyed in peace of Conſci<g ref="char:EOLhyphen"/>ence? <hi>Charles</hi> the Fifth, the Prince of <hi>Parma,</hi> and ſeveral others, though they lived in all pomp and ſtate, yet at their death they deſired to be buried in a poor Capuchin's Hood; intimating thereby <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deſire of renouncing the world: and though this act of theirs was a ſenſeleſs piece of ſuperſtition,
+<pb n="22" facs="tcp:42175:14"/>yet however we may learn this leſſon from it; that they found all their pomp and glory to ſignifie no<g ref="char:EOLhyphen"/>thing, when Death gave them a ſummons into the other world. Here men toil, and beat their brains, tire their Spirits, and rack their Conſciences; and when they have done all, like Silk-worms, they dye in their work, and God takes them away be<g ref="char:EOLhyphen"/>fore <hi>they can roaſt what they got in Hunting;</hi> before they can truly in joy what they have newly purchaſed.</p>
+            <p>When a fit of ſickneſs throws us upon our death<g ref="char:EOLhyphen"/>bed, when our Sinews crack, our Veins ſhrink, and our Eyeſtrings break, when (by the ſolution of the vital congruity) our Souls are bating to be gone, and take their laſt leave and farewel of our bo<g ref="char:EOLhyphen"/>dies, what then will theſe ſublunary injoyments avail us? Can we then borrow thoſe wings which our Riches have to fly from us, to fly with to Hea<g ref="char:EOLhyphen"/>ven, can we then aſcend thither by the <hi>Climax</hi> of our Worldly Honours? Can all our Worldly Wiſ<g ref="char:EOLhyphen"/>dom and Policy qualifie us to be admitted, and ſworn, of the King of Heavens Privy Council? no, no, let us therefore ſeek firſt and primarily,<note n="*" place="margin">
+                  <hi>Mat.</hi> 6.33.</note> 
+               <hi>The Kingdom of God, and the Righteouſneſs there<g ref="char:EOLhyphen"/>of, and all theſe things ſhall be added unto us.</hi> Let me now put an end both to your love of Earthly things, and to this Diſcourſe with theſe words of the Text, <hi>Set your Affections on things above;</hi> which God grant we may all do, for his Dear Son Jeſus Chriſt his ſake, to whom with the Father, and the Holy Spirit, be all Honour, Glory and Praiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:42175:14"/>
+            <head>Four Sermons lately publiſhed by the ſame Author and ſold by <hi>Ben. Billingſley.</hi>
+            </head>
+            <p n="1">1. A Sermon Preached before the Right Honou<g ref="char:EOLhyphen"/>rable the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men of the City of <hi>London</hi> at <hi>Guild-hall.</hi>
+            </p>
+            <p n="2">2. The neceſſity of Receiving the Holy Sacra<g ref="char:EOLhyphen"/>ment, declared in a Sermon at a Conference of the ſeveral Miniſters of the Deanry of <hi>Braughin,</hi> in the County of <hi>Hertford,</hi> appointed by the Right Reverend Father in God <hi>Henry</hi> Lord Biſhop of <hi>London</hi> to be held at <hi>Ware.</hi>
+            </p>
+            <p n="3">3. The great Excellency and Uſefulneſs and ne<g ref="char:EOLhyphen"/>ceſſity of Humane Learning, declared in a Sermon preached before the Univerſity, at Great St. <hi>Ma<g ref="char:EOLhyphen"/>ries</hi> Church in <hi>Cambridge, Aug.</hi> the 7th. 1681.</p>
+            <p n="4">4. The Abſolute and Peremptory Decree of Election to Eternal Glory Reprobated. In a Ser<g ref="char:EOLhyphen"/>mon preached before the Univerſity in Great St. <hi>Maries</hi> Church in <hi>Cambridge.</hi> 1682.</p>
+            <p>As alſo by an Ingenious Author,</p>
+            <p>The <hi>Italian</hi> Ship or <hi>Paul's</hi> Tranſportation to <hi>Rome,</hi> a Diſcourſe on <hi>Acts</hi> the 27 and 15 made on <hi>March</hi> the 20th. 1681. By <hi>Will Ramſey</hi> B. D. and then Lecturer in <hi>Iſleworth</hi> in <hi>Middleſex.</hi> With 3 other Sermons by the ſame Author, being three ſe<g ref="char:EOLhyphen"/>veral diſcourſes concerning the Romiſh and Prote<g ref="char:EOLhyphen"/>ſtant Witneſſes, particularly in Relation to the Popiſh plot, diſcovered <hi>Anno</hi> 1678, and contain<g ref="char:EOLhyphen"/>ing a new and certain diſcovery of the Popes be<g ref="char:EOLhyphen"/>ing the Anti-Chriſt, whoſe number of his name is 666, and of the deſtruction of <hi>Rome.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
